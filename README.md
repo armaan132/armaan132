@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @armaan132
+- 👀 I’m interested in machine learning, data science and analytics, and more!
+- 💞️ I’m looking to collaborate on development projects
+- 📫 How to reach me www.linkedin.com/in/armaan-saxena28
+- ⚡ Fun fact: I love playing baseball, swimming, and lifting!
