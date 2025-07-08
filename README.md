@@ -11,8 +11,6 @@ Here's some of projects I have worked on:
 
 https://github.com/CS196Illinois/FA24-Group17
 
-https://github.com/armaan132/core4tutoring
-
 https://github.com/armaan132/WD50-research
 
 https://github.com/armaan132/pathfinding-visualizer
