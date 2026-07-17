@@ -4,11 +4,5 @@
 - 📫 How to reach me:
 
  www.linkedin.com/in/armaan-saxena28
+armaans1712@gmail.com
 
-armaansaxena2948@gmail.com
-
-Here's some of projects I have worked on: 
-
-https://github.com/CS196Illinois/FA24-Group17
-
-https://github.com/armaan132/pathfinding-visualizer
