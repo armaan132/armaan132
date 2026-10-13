@@ -9,6 +9,9 @@ armaans1712@gmail.com
 Here are my previous projects!
 
 
+RFP Document Analysis System, transferred ownership from me to the team lead in May 2026 (Currently private):
+  https://github.com/RadheshAcumen/rfp-presales-system
+
 Original substack Project (Currently private): 
   https://github.com/alexhkurz/substack-pAIa
 
