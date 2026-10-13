@@ -9,10 +9,12 @@ armaans1712@gmail.com
 Here are my previous projects!
 
 
+Original substack Project
+
+https://github.com/alexhkurz/substack-pAIa
 
 
 
-
-
+CS Honors Project:
 
 https://github.com/CS196Illinois/FA24-Group17
