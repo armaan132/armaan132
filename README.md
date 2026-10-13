@@ -9,11 +9,13 @@ armaans1712@gmail.com
 Here are my previous projects!
 
 
-Original substack Project
+Original substack Project:
 
 https://github.com/alexhkurz/substack-pAIa
 
+Adapted as an Extension:
 
+https://github.com/armaan132/substack-pAIa-extension
 
 CS Honors Project:
 
