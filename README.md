@@ -9,14 +9,15 @@ armaans1712@gmail.com
 Here are my previous projects!
 
 
-Original substack Project:
+Original substack Project: 
+  https://github.com/alexhkurz/substack-pAIa
 
-https://github.com/alexhkurz/substack-pAIa
+Adapted as an Extension: 
+  https://github.com/armaan132/substack-pAIa-extension
 
-Adapted as an Extension:
-
-https://github.com/armaan132/substack-pAIa-extension
+WD50 Research, submitted to Nature Scientific Journal for review, "When It Rains, It Pours: How California's Extreme Weather Is Reshaping Water Supply Forever"
+  https://github.com/armaan132/WD50-research
 
 CS Honors Project:
 
-https://github.com/CS196Illinois/FA24-Group17
+  https://github.com/CS196Illinois/FA24-Group17
