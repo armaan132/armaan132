@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner-racing.svg" alt="Armaan Saxena — Machine learning, data science, and analytics." width="100%" />
+  <img src="./assets/profile-banner-gradient.svg" alt="Armaan Saxena — Machine learning, data science, and analytics." width="100%" />
 </p>
 
 <p align="center">
