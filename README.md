@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner-racing.svg" alt="Armaan Saxena — Machine learning, data science, and analytics. A Formula 1-inspired banner with an open-wheel racing car and a circuit racing line." width="100%" />
+  <img src="./assets/profile-banner-racing.svg" alt="Armaan Saxena — Machine learning, data science, and analytics." width="100%" />
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
   <a href="https://github.com/armaan132"><strong>GitHub</strong></a>
 </p>
 
-I'm Armaan. My work spans **machine learning, data science, and analytics**, with projects across climate research, statistical learning, and software development.
+I'm Armaan. “The goal is to turn data into information, and information into insight.”
 
-**Open to collaboration on development projects.** [Get in touch.](mailto:armaans1712@gmail.com)
+**Open to collaboration on development projects.**
 
 ## Research
 
