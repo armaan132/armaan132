@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Armaan Saxena — Turning curiosity into something real.</title>
+  <desc id="desc">A dark navy banner with mint and lavender typography, a connected constellation of ideas around an a monogram, and the interests machine learning, data science, and analytics.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1525"/>
+      <stop offset="1" stop-color="#111A2B"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="0" cy="0" r="1" gradientTransform="translate(952 191) rotate(90) scale(202 250)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#59D8BE" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#59D8BE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="connection" x1="814" y1="99" x2="1106" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#77E5CC"/>
+      <stop offset="1" stop-color="#A89AEA"/>
+    </linearGradient>
+    <pattern id="grid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".7" fill="#71829B" fill-opacity=".15"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="380" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="380" rx="22" fill="url(#background)"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+    <rect x="718" width="482" height="380" fill="url(#aura)"/>
+    <path d="M48 47H66M57 38V56" stroke="#80E8CF" stroke-width="2" stroke-linecap="round"/>
+    <text x="80" y="52" fill="#C8D3E2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="650" letter-spacing="2.1">ARMAAN SAXENA</text>
+    <text x="1152" y="51" text-anchor="end" fill="#83DCC8" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="11" letter-spacing="1.4">OPEN TO COLLABORATE</text>
+    <text x="48" y="143" fill="#F2F5FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="57" font-weight="720" letter-spacing="-2.3">Turning curiosity</text>
+    <text x="48" y="208" fill="#80E8CF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="57" font-weight="720" letter-spacing="-2.3">into something real.</text>
+    <text x="51" y="254" fill="#A8B5C9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="500" letter-spacing="1.4">MACHINE LEARNING · DATA SCIENCE · ANALYTICS</text>
+    <path d="M49 294H711" stroke="#26354B"/>
+    <g font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="11.5" letter-spacing="1">
+      <text x="50" y="329" fill="#C0CCE0">01 EXPLORE</text>
+      <path d="M186 325H209M205 321L209 325L205 329" stroke="#688298" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="233" y="329" fill="#C0CCE0">02 EXPERIMENT</text>
+      <path d="M401 325H424M420 321L424 325L420 329" stroke="#688298" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="449" y="329" fill="#C0CCE0">03 BUILD</text>
+    </g>
+    <g stroke="url(#connection)" stroke-opacity=".34" stroke-width="1.2">
+      <path d="M825 111L1006 92L1102 181L1029 281L843 284L825 111Z"/>
+      <path d="M825 111L950 191L1006 92M1102 181L950 191L1029 281M843 284L950 191"/>
+      <path d="M825 111L1029 281M843 284L1006 92" stroke-opacity=".15" stroke-dasharray="4 7"/>
+    </g>
+    <circle cx="950" cy="191" r="77" stroke="#80E8CF" stroke-opacity=".13" stroke-dasharray="3 8"/>
+    <circle cx="950" cy="191" r="56" fill="#142C35" stroke="#80E8CF" stroke-opacity=".4"/>
+    <circle cx="950" cy="191" r="47" stroke="#80E8CF" stroke-opacity=".1"/>
+    <text x="950" y="205" text-anchor="middle" fill="#A0F0DB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="43" font-weight="700" letter-spacing="-2">a.</text>
+    <g fill="#111B2A" stroke-width="1.2">
+      <circle cx="825" cy="111" r="12" stroke="#80E8CF" stroke-opacity=".48"/>
+      <circle cx="1006" cy="92" r="10" stroke="#B5A8EF" stroke-opacity=".48"/>
+      <circle cx="1102" cy="181" r="14" stroke="#80E8CF" stroke-opacity=".48"/>
+      <circle cx="1029" cy="281" r="11" stroke="#B5A8EF" stroke-opacity=".48"/>
+      <circle cx="843" cy="284" r="10" stroke="#80E8CF" stroke-opacity=".48"/>
+    </g>
+    <g fill="#80E8CF">
+      <circle cx="825" cy="111" r="4"/>
+      <circle cx="1102" cy="181" r="5"/>
+      <circle cx="843" cy="284" r="3.5"/>
+    </g>
+    <g fill="#B5A8EF">
+      <circle cx="1006" cy="92" r="3.5"/>
+      <circle cx="1029" cy="281" r="3.5"/>
+      <circle cx="781" cy="212" r="2.4" fill-opacity=".6"/>
+      <circle cx="1110" cy="308" r="2" fill-opacity=".6"/>
+      <circle cx="1126" cy="111" r="2.4" fill-opacity=".6"/>
+      <circle cx="912" cy="70" r="1.8" fill-opacity=".5"/>
+    </g>
+    <g fill="#93A5BC" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="10" letter-spacing="1.4">
+      <text x="789" y="88">RESEARCH</text>
+      <text x="1027" y="95">IDEAS</text>
+      <text x="1102" y="215" text-anchor="middle">BUILD</text>
+      <text x="1029" y="312" text-anchor="middle">MODELS</text>
+      <text x="822" y="315">DATA</text>
+    </g>
+    <rect x=".5" y=".5" width="1199" height="379" rx="21.5" stroke="#A5C2DC" stroke-opacity=".12"/>
+  </g>
+</svg>
