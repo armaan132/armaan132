@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Armaan Saxena — Turning curiosity into something real. Machine learning, data science, and analytics. Open to collaborate." width="100%" />
+  <img src="./assets/profile-banner-racing.svg" alt="Armaan Saxena — Machine learning, data science, and analytics. A Formula 1-inspired banner with an open-wheel racing car and a circuit racing line." width="100%" />
 </p>
 
 <p align="center">
@@ -10,65 +10,65 @@
   <a href="https://github.com/armaan132"><strong>GitHub</strong></a>
 </p>
 
-## Hi, I'm Armaan
+I'm Armaan. My work spans **machine learning, data science, and analytics**, with projects across climate research, statistical learning, and software development.
 
-I'm interested in **machine learning, data science, analytics**, and the ideas that connect them. My projects span research, AI applications, and collaborative development, and I'm always curious about what to build next.
+**Open to collaboration on development projects.** [Get in touch.](mailto:armaans1712@gmail.com)
 
-**Open to collaborating on development projects.** Have an idea? [Let's connect.](mailto:armaans1712@gmail.com)
-
----
-
-## Research & exploration
+## Research
 
 ### [WD50 Research](https://github.com/armaan132/WD50-research)
 
-<sub>Private repository · Manuscript submitted for review</sub>
+<sub>Currently private</sub>
 
-**“When It Rains, It Pours: How California's Extreme Weather Is Reshaping Water Supply Forever”**
+*“When It Rains, It Pours: How California's Extreme Weather Is Reshaping Water Supply Forever”*
 
-Studies how California's rainfall is concentrated into fewer wet days using PRISM precipitation data and LOCA2 climate projections. The manuscript has been submitted to **Scientific Reports**, a Nature Portfolio journal, for review.
+Investigates how California's rainfall is concentrated into a small number of wet days, combining historical PRISM precipitation records with LOCA2 climate projections. The resulting manuscript has been submitted to **Scientific Reports**, a Nature Portfolio journal, for review.
 
 ### [Alzheimer's Research — UC Irvine (ICS)](https://docs.google.com/presentation/d/10q8vr073xSu2DW_WoiWPw-wqvLjlxP5e5YN-VaI47ms/edit?usp=sharing)
 
-Collaborative research at the **University of California, Irvine (ICS)** examining whether everyday behavioral difficulties can indicate the severity of cognitive impairment. Explores multinomial regression, LASSO, and decision trees as approaches to an initial Alzheimer's screening step.
+<sub>Currently public</sub>
 
-## Projects & builds
+A collaborative research study at the **University of California, Irvine (ICS)** assessing the relationship between everyday behavioral difficulties and cognitive impairment. Evaluates multinomial regression, LASSO, and decision trees as potential approaches to preliminary Alzheimer's screening.
+
+## Projects
 
 ### [RFP Document Analysis System](https://github.com/RadheshAcumen/rfp-presales-system)
 
-<sub>Private repository</sub>
+<sub>Currently private</sub>
 
-A document analysis system for working with requests for proposals in a presales workflow. Ownership transferred from me to the team lead in **May 2026**.
+A document analysis system designed to support the review of requests for proposals within presales workflows. Project ownership transferred from me to the team lead in **May 2026**.
 
 ### [Sign Language Web Application](https://github.com/armaan132/Sign-Language-Web-Application)
 
-<sub>Private repository</sub>
+<sub>Currently private</sub>
 
-An AI-assisted prototype for turning documents and text into a sign-language video workflow. Combines language processing, sign-language gloss generation, and human review with a separate avatar-rendering layer that currently uses mock output.
+An AI-assisted accessibility prototype that prepares document and text content for sign-language video generation. Integrates language simplification, translation, gloss generation, and human review with a modular avatar-rendering layer currently supported by mock output.
 
 ### [Stock Market Prediction Engine](https://github.com/armaan132/Stock-Market-Opportunity-Prediction-Engine/tree/main)
 
-An educational machine learning pipeline that uses company fundamentals to estimate the probability of outperforming the S&P 500 over the next 12 months. Includes financial data ingestion, feature engineering, time-based validation, and a Streamlit dashboard for exploring company rankings and model drivers.
+<sub>Currently private</sub>
+
+An educational machine learning platform that estimates a company's probability of outperforming the S&P 500 over a 12-month horizon using financial fundamentals. Integrates data ingestion, feature engineering, time-based validation, and an interactive Streamlit dashboard for examining company rankings and model drivers.
 
 ### [Original Substack Project](https://github.com/alexhkurz/substack-pAIa)
 
-<sub>Private repository</sub>
+<sub>Currently private</sub>
 
-A Python research prototype for Substack newsletter discovery, offline reading, and citation sentiment analysis. This project formed the foundation for the browser extension below.
+A Python research prototype exploring newsletter discovery, offline reading, and citation sentiment analysis across Substack content. Provides the foundation for the **Daily Briefing pAIa** browser extension.
 
 ### [Substack AI Extension](https://github.com/armaan132/substack-pAIa-extension)
 
-<sub>Private repository</sub>
+<sub>Currently private</sub>
 
-Adapted from the original Substack project into **Daily Briefing pAIa**, a Chrome extension that personalizes feeds using reading feedback, author and publication affinity, and freshness. Uses transparent ranking rules and stores preferences locally in the browser.
+Adapted from the original Substack project, **Daily Briefing pAIa** is a Chrome extension that personalizes feeds using reading feedback, publication and author affinity, and content freshness. Provides transparent, rule-based rankings and stores user preferences locally in the browser.
 
 ### [CS Honors Project](https://github.com/CS196Illinois/FA24-Group17)
 
-<sub>Public repository</sub>
+<sub>Currently public</sub>
 
-A collaborative CS honors project implementing a convolutional neural network for character recognition with TensorFlow and Keras. Includes image preprocessing, model training, and prediction workflows.
+A collaborative computer science honors project applying convolutional neural networks to character recognition. Implements image preprocessing, model training, and inference workflows with TensorFlow and Keras.
 
-<sub>Repositories marked private require access to view.</sub>
+<sub>Private repositories require access to view.</sub>
 
 ---
 
