@@ -10,7 +10,7 @@
   <a href="https://github.com/armaan132"><strong>GitHub</strong></a>
 </p>
 
-I'm Armaan. “The goal is to turn data into information, and information into insight.”
+I'm Armaan. “The goal is to turn data into information, and information into insight.” — Carly Fiorina, former CEO of Hewlett-Packard (HP)
 
 **Open to collaboration on development projects.**
 
