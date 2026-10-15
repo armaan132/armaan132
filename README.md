@@ -46,7 +46,7 @@ An AI-assisted pipeline that prepares document and text content for sign-languag
 
 ### [Stock Market Prediction Engine](https://github.com/armaan132/Stock-Market-Opportunity-Prediction-Engine/tree/main)
 
-<sub>Currently private</sub>
+<sub>Currently public</sub>
 
 A machine learning platform that estimates a company's probability of outperforming the S&P 500 over a 12-month horizon using financial fundamentals. Integrates data ingestion, feature engineering, time-based validation, and an interactive Streamlit dashboard for examining company rankings and model drivers.
 
