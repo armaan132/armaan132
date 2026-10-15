@@ -10,7 +10,7 @@
   <a href="https://github.com/armaan132"><strong>GitHub</strong></a>
 </p>
 
-I'm Armaan. “The goal is to turn data into information, and information into insight.” — Carly Fiorina, former CEO of Hewlett-Packard (HP)
+I'm Armaan. “The goal is to turn data into information, and information into insight.” — Carly Fiorina, former CEO of HP
 
 **Open to collaboration on development projects.**
 
@@ -42,13 +42,13 @@ A document analysis system designed to support the review of requests for propos
 
 <sub>Currently private</sub>
 
-An AI-assisted accessibility prototype that prepares document and text content for sign-language video generation. Integrates language simplification, translation, gloss generation, and human review with a modular avatar-rendering layer currently supported by mock output.
+An AI-assisted pipeline that prepares document and text content for sign-language video generation. Integrates language simplification, translation, gloss generation, and human review with a modular avatar-rendering layer currently supported by mock output.
 
 ### [Stock Market Prediction Engine](https://github.com/armaan132/Stock-Market-Opportunity-Prediction-Engine/tree/main)
 
 <sub>Currently private</sub>
 
-An educational machine learning platform that estimates a company's probability of outperforming the S&P 500 over a 12-month horizon using financial fundamentals. Integrates data ingestion, feature engineering, time-based validation, and an interactive Streamlit dashboard for examining company rankings and model drivers.
+A machine learning platform that estimates a company's probability of outperforming the S&P 500 over a 12-month horizon using financial fundamentals. Integrates data ingestion, feature engineering, time-based validation, and an interactive Streamlit dashboard for examining company rankings and model drivers.
 
 ### [Original Substack Project](https://github.com/alexhkurz/substack-pAIa)
 
