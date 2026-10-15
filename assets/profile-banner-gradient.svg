@@ -1,30 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Armaan Saxena — Machine learning, data science, and analytics.</title>
-  <desc id="desc">Centered white typography over a flowing midnight blue, cobalt, violet, and teal gradient.</desc>
+  <title id="title">Armaan Saxena — armaan132</title>
+  <desc id="desc">Armaan Saxena and the username armaan132 centered over a rich midnight navy, electric blue, indigo, and teal gradient.</desc>
   <defs>
     <linearGradient id="base" x1="0" y1="420" x2="1400" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#101C4A"/>
-      <stop offset=".48" stop-color="#151333"/>
-      <stop offset="1" stop-color="#102A3C"/>
+      <stop stop-color="#0B1536"/>
+      <stop offset=".48" stop-color="#10132B"/>
+      <stop offset="1" stop-color="#0C2231"/>
     </linearGradient>
     <radialGradient id="cobalt" cx="0" cy="0" r="1" gradientTransform="translate(95 460) rotate(-24) scale(925 480)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2868F2" stop-opacity=".95"/>
-      <stop offset=".42" stop-color="#244FC0" stop-opacity=".65"/>
+      <stop stop-color="#2056CE" stop-opacity=".95"/>
+      <stop offset=".42" stop-color="#1D43A1" stop-opacity=".65"/>
       <stop offset="1" stop-color="#244FC0" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="violet" cx="0" cy="0" r="1" gradientTransform="translate(1110 500) rotate(-153) scale(880 485)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#965BF4" stop-opacity=".86"/>
-      <stop offset=".49" stop-color="#713CCE" stop-opacity=".58"/>
+      <stop stop-color="#6D54CB" stop-opacity=".86"/>
+      <stop offset=".49" stop-color="#5043A5" stop-opacity=".58"/>
       <stop offset="1" stop-color="#713CCE" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="teal" cx="0" cy="0" r="1" gradientTransform="translate(1325 -110) rotate(158) scale(680 440)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#3AD1D5" stop-opacity=".9"/>
-      <stop offset=".47" stop-color="#188DAB" stop-opacity=".64"/>
+      <stop stop-color="#259DAC" stop-opacity=".9"/>
+      <stop offset=".47" stop-color="#166F88" stop-opacity=".64"/>
       <stop offset="1" stop-color="#188DAB" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="indigo" cx="0" cy="0" r="1" gradientTransform="translate(490 -165) rotate(26) scale(880 390)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#7F79E9" stop-opacity=".6"/>
-      <stop offset="1" stop-color="#6E65CC" stop-opacity="0"/>
+      <stop stop-color="#606CB8" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#50599D" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="ribbon" x1="390" y1="395" x2="1015" y2="-60" gradientUnits="userSpaceOnUse">
       <stop stop-color="#8D9FFF" stop-opacity="0"/>
@@ -47,10 +47,8 @@
     <path d="M-100 505C246 502 367 375 617 179C843 3 1027 -53 1490 -58V-160H-100Z" fill="url(#ribbon)"/>
     <path d="M-100 505C246 502 367 375 617 179C843 3 1027 -53 1490 -58" stroke="url(#edge)"/>
     <path d="M-45 505C298 482 432 361 672 174C913 -13 1088 -38 1505 -17" stroke="url(#edge)" stroke-opacity=".4"/>
-    <text x="700" y="129" text-anchor="middle" fill="#D5DDF5" fill-opacity=".76" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="11.5" letter-spacing="4">ARMAAN132</text>
-    <text x="700" y="221" text-anchor="middle" fill="#F7F8FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="78" font-weight="650" letter-spacing="-2.5">Armaan Saxena</text>
-    <text x="700" y="267" text-anchor="middle" fill="#DCE3F7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="450" letter-spacing="2.5">MACHINE LEARNING · DATA SCIENCE · ANALYTICS</text>
-    <path d="M668 302H732" stroke="#E4E7FF" stroke-opacity=".42"/>
+    <text x="700" y="214" text-anchor="middle" fill="#F7F8FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="78" font-weight="650" letter-spacing="-2.5">Armaan Saxena</text>
+    <text x="700" y="260" text-anchor="middle" fill="#DCE3F7" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="16" letter-spacing="2">armaan132</text>
     <rect x=".5" y=".5" width="1399" height="419" rx="15.5" stroke="#DAE0FA" stroke-opacity=".14"/>
   </g>
 </svg>
