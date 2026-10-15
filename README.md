@@ -36,7 +36,7 @@ A collaborative research study at the **University of California, Irvine (ICS)**
 
 <sub>Currently private</sub>
 
-A document analysis system designed to support the review of requests for proposals within presales workflows. Project ownership transferred from me to the team lead in **May 2026**.
+A document analysis system designed to support the review of requests for proposals within presales workflows. Project ownership transferred from me to the team lead in **May 2026**. Listed as a collaborator on the project.
 
 ### [Sign Language Web Application](https://github.com/armaan132/Sign-Language-Web-Application)
 
