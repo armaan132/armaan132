@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/armaan-saxena28"><strong>LinkedIn</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:armaans1712@gmail.com"><strong>Email</strong></a>
+  <a href="mailto:armaansaxena2948@gmail.com"><strong>Email</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/armaan132"><strong>GitHub</strong></a>
 </p>
