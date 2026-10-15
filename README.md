@@ -58,7 +58,7 @@ A Python research prototype exploring newsletter discovery, offline reading, and
 
 ### [Substack AI Extension](https://github.com/armaan132/substack-pAIa-extension)
 
-<sub>Currently private</sub>
+<sub>Currently public</sub>
 
 Adapted from the original Substack project, **Daily Briefing pAIa** is a Chrome extension that personalizes feeds using reading feedback, publication and author affinity, and content freshness. Provides transparent, rule-based rankings and stores user preferences locally in the browser.
 
